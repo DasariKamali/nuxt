@@ -29,8 +29,8 @@
       });
   
       const logout = () => { 
-        const redirectUri = 'https://black-sea-07fc4440f.5.azurestaticapps.net/';
-        const tenantId = '9329c02a-4050-4798-93ae-b6e37b19af6d';
+        const redirectUri = 'https://<AzureStaticWenAppURL>.azurestaticapps.net/';
+        const tenantId = '<TenantID>';
         const logoutUrl = `https://login.microsoftonline.com/${tenantId}/oauth2/v2.0/logout?post_logout_redirect_uri=${redirectUri}`;
         window.location.href = logoutUrl;
       };
