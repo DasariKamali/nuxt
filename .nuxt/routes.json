@@ -1,0 +1,16 @@
+[
+  {
+    "name": "callback",
+    "path": "/callback",
+    "component": "C:\\\\Users\\\\v-dkamali\\\\Documents\\\\78889865\\\\myAD\\\\pages\\\\callback.vue",
+    "chunkName": "pages/callback",
+    "_name": "_7c6ff814"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\v-dkamali\\\\Documents\\\\78889865\\\\myAD\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8bfb73da"
+  }
+]
